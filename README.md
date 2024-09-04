@@ -1,4 +1,5 @@
 👋 Hello, I'm szalaskowyy!
+
 🚀 About Me
 I am a passionate programmer with a deep love for coding and music. My journey in the world of programming has led me to master several languages, and I'm always eager to learn more and take on new challenges.
 
